@@ -4,7 +4,7 @@ Installation
 -
 1. Make sure you have a node.js v8.16 or higher
 2. Run `npm install` to install dependencies
-3. Run `mocha` from test folder to run tests
+3. Run `mocha` from test folder to run tests (or just `npm test`)
 
 Structure
 -
